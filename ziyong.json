@@ -1442,7 +1442,7 @@
     {
       "name": "20250105维护",
       "type": 0,
-      "url": "https://live.kilvn.com/iptv.m3u",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/JERRYMUYU/MUYU/refs/heads/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
