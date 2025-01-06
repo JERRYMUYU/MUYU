@@ -1213,6 +1213,31 @@
       "url": "Demo"
     },
     {
+      "name": "虾米解析接口",
+      "type": 3,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "M1907解析接口",
+      "type": 3,
+      "url": "https://im1907.top/?jx="
+    },
+    {
+      "name": "咸鱼解析接口",
+      "type": 3,
+      "url": "https://jx.xymp4.cc/?url="
+    },
+    {
+      "name": "极速解析接口",
+      "type": 3,
+      "url": "https://jx.2s0.cn/player/?url="
+    },
+    {
+      "name": "PlayerJY解析接口",
+      "type": 3,
+      "url": "https://jx.playerjy.com/?url="
+    },
+    {
       "name": "皮皮虾",
       "type": "1",
       "url": "http://45.207.215.101:5423/index.php?url=",
